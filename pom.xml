@@ -205,7 +205,7 @@
 					<artifactId>tomcat7-maven-plugin</artifactId>
 					<version>2.2</version>
 					<configuration>
-						<path>/</path>
+						<path>/note8</path>
 					</configuration>
 				</plugin>
 				<plugin>
